@@ -1,2 +1,2 @@
 # apiVBATyne
-Tyne platorm data access via vba
+Tyne platorm data access for vba
