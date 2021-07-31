@@ -1,0 +1,5 @@
+# Arquivo para armazenamento de Token Tiny
+*.securityToken
+
+# Arquivo temporário do Access
+*.laccdb
